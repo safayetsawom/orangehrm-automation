@@ -82,5 +82,5 @@ pytest -v
 
 ## Author
 
-**Safayet** — CSE Graduate | Aspiring SQA Engineer  
-[GitHub](https://github.com/YOUR_USERNAME)
+**Md.Safayet Hossain Sawom** — CSE Graduate | Aspiring SQA Engineer  
+[GitHub](https://github.com/safayetsawom)
